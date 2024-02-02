@@ -10,7 +10,7 @@ OnionClean is at the forefront of developing directory scanning and cleaning sof
 
 ## Get Started
 Interested in trying out our software? Here's how you can get started:
-1. Visit our [GitHub repository](https://github.com/OnionClean/OnionCleaner).
+1. Visit our [GitHub repository](https://github.com/OnionClean/OnionClean).
 2. Follow the installation instructions in the README.
 3. Start decluttering and securing your digital space today!
 
